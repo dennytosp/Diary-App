@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980616167008",
+    "project_id": "fa-blog-8119d",
+    "storage_bucket": "fa-blog-8119d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980616167008:android:492c3b2eaab279f5578d05",
+        "android_client_info": {
+          "package_name": "com.fablog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980616167008-i66tlh9suohpdikddb111hfb2ckarctt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fablog",
+            "certificate_hash": "492653ede4c91d62b025c0937001baa7b0801763"
+          }
+        },
+        {
+          "client_id": "980616167008-2f0ujjdmvtt1tb81j6s6vi0l4e0kga20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA61BUzwbePLTRFSqXBKYGxMVb1nSX2eBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980616167008-2f0ujjdmvtt1tb81j6s6vi0l4e0kga20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
